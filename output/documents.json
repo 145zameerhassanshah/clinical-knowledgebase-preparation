@@ -1,0 +1,58 @@
+[
+  {
+    "document_id": "9789240033986_eng_617ad900",
+    "file_name": "9789240033986-eng.pdf",
+    "file_type": "pdf",
+    "source_path": "input_docs\\9789240033986-eng.pdf",
+    "extraction_method": "PyMuPDF + optional Tesseract OCR fallback",
+    "metadata": {
+      "page_count": 61,
+      "ocr_pages": 0,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "Adobe InDesign CS6 (Macintosh)",
+        "producer": "Adobe PDF Library 10.0.1",
+        "creationDate": "D:20220211153029Z",
+        "modDate": "D:20221130110318Z",
+        "trapped": "",
+        "encryption": null
+      }
+    },
+    "warnings": [
+      "Page 2 appears scan-like; Tesseract not available.",
+      "Page 12 appears scan-like; Tesseract not available.",
+      "Page 61 appears scan-like; Tesseract not available."
+    ],
+    "text_char_count": 159477
+  },
+  {
+    "document_id": "type_2_diabetes_in_adults_management_pdf_1837338615493_97611722",
+    "file_name": "type-2-diabetes-in-adults-management-pdf-1837338615493.pdf",
+    "file_type": "pdf",
+    "source_path": "input_docs\\type-2-diabetes-in-adults-management-pdf-1837338615493.pdf",
+    "extraction_method": "PyMuPDF + optional Tesseract OCR fallback",
+    "metadata": {
+      "page_count": 131,
+      "ocr_pages": 0,
+      "pdf_metadata": {
+        "format": "PDF 1.7",
+        "title": "Type 2 diabetes in adults: management",
+        "author": "National Institute for Health and Care Excellence (NICE)",
+        "subject": "Type 2 diabetes in adults: management (NG28)",
+        "keywords": "NG28",
+        "creator": "NICE Publications",
+        "producer": "Prince 16.2 (www.princexml.com)",
+        "creationDate": "D:20260218000000Z",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      }
+    },
+    "warnings": [],
+    "text_char_count": 214105
+  }
+]
