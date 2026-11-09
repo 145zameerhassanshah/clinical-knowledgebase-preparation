@@ -1,0 +1,12 @@
+{
+  "documents_discovered": 2,
+  "documents_processed": 2,
+  "sections_created": 168,
+  "chunks_created": 631,
+  "failed_documents": 0,
+  "average_chunk_chars": 720.64,
+  "smallest_chunk_chars": 1,
+  "largest_chunk_chars": 2992,
+  "retrieval_ready": true,
+  "failures": []
+}
