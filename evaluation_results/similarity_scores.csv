@@ -1,0 +1,33 @@
+pair_id,category,sentence_1,sentence_2,expected_equivalent,general_cosine,biomedical_cosine
+S01,Synonyms,The patient has hypertension.,The patient has high blood pressure.,1,0.8828208,0.95107937
+S02,Synonyms,The patient has dyspnea.,The patient experiences shortness of breath.,1,0.6053748,0.8140348
+S03,Synonyms,The patient has myocardial infarction.,The patient has suffered a heart attack.,1,0.74199396,0.89307255
+S04,Synonyms,The patient has edema in both legs.,The patient has swelling in both legs.,1,0.8351524,0.83045566
+S05,Synonyms,The patient has hyperglycemia.,The patient has elevated blood glucose.,1,0.78288275,0.97284806
+S06,Synonyms,The patient has hypotension.,The patient has low blood pressure.,1,0.7101474,0.7520654
+S07,Synonyms,The patient has tachycardia.,The patient has an abnormally fast heart rate.,1,0.7631495,0.82100296
+S08,Synonyms,The patient has bradycardia.,The patient has an abnormally slow heart rate.,1,0.746458,0.9031106
+A01,Abbreviations,The patient has COPD.,The patient has chronic obstructive pulmonary disease.,1,0.69668865,0.96031415
+A02,Abbreviations,The patient has CKD.,The patient has chronic kidney disease.,1,0.6723657,0.967911
+A03,Abbreviations,The patient has CHF.,The patient has congestive heart failure.,1,0.5397142,0.9659209
+A04,Abbreviations,The patient has DVT.,The patient has deep vein thrombosis.,1,0.5423244,0.95132756
+A05,Abbreviations,The patient has UTI.,The patient has a urinary tract infection.,1,0.850189,0.941316
+A06,Abbreviations,The patient has T2DM.,The patient has type 2 diabetes mellitus.,1,0.5606712,0.9571327
+A07,Abbreviations,The patient has SOB.,The patient has shortness of breath.,1,0.7525273,0.3148522
+A08,Abbreviations,The patient has AKI.,The patient has acute kidney injury.,1,0.49707687,0.97880244
+N01,Negation,The patient has pneumonia.,The patient does not have pneumonia.,0,0.84352326,0.9780749
+N02,Negation,The patient reports chest pain.,The patient denies chest pain.,0,0.7936809,0.95616454
+N03,Negation,The patient has a fever.,The patient has no fever.,0,0.82124144,0.97763944
+N04,Negation,The patient has diabetes.,The patient does not have diabetes.,0,0.81437844,0.97956955
+N05,Negation,The patient has a known drug allergy.,The patient has no known drug allergy.,0,0.80282176,0.99140656
+N06,Negation,The patient is experiencing nausea.,The patient is not experiencing nausea.,0,0.85726696,0.9919193
+N07,Negation,The patient has a pulmonary embolism.,The patient has no pulmonary embolism.,0,0.74307,0.9493036
+N08,Negation,The patient is taking anticoagulants.,The patient is not taking anticoagulants.,0,0.8293006,0.99441123
+D01,Numerical,The patient's blood pressure is 120/80 mmHg.,The patient's blood pressure is 180/110 mmHg.,0,0.96427155,0.99801886
+D02,Numerical,The patient's potassium level is 4.0 mmol/L.,The patient's potassium level is 6.5 mmol/L.,0,0.9518277,0.99970144
+D03,Numerical,The patient's temperature is 37 degrees Celsius.,The patient's temperature is 40 degrees Celsius.,0,0.88621587,0.995372
+D04,Numerical,The patient's oxygen saturation is 98%.,The patient's oxygen saturation is 82%.,0,0.9597666,0.9962457
+D05,Numerical,The patient is prescribed 5 mg of the medication.,The patient is prescribed 50 mg of the medication.,0,0.80395323,0.9802382
+D06,Numerical,The patient's heart rate is 70 beats per minute.,The patient's heart rate is 140 beats per minute.,0,0.8783771,0.997675
+D07,Numerical,The patient's blood glucose is 90 mg/dL.,The patient's blood glucose is 300 mg/dL.,0,0.93658984,0.99884295
+D08,Numerical,The patient's hemoglobin level is 14 g/dL.,The patient's hemoglobin level is 7 g/dL.,0,0.94337785,0.9993387
